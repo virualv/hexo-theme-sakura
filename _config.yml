@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hojun
-subtitle:
-description: 好少年光芒万丈
-keywords:
-author: hojun
-language: zh-cn
-timezone:
+title: ByteOrchid
+subtitle: '字蘭'
+description: 'The new byteorchid offical blog site !'
+keywords: blog,byteorchid
+author: virualv
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
+url: https://blog.byteorchid.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: README.md
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -39,8 +39,8 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight: 
-  enable: false
-  line_number: false
+  enable: true
+  line_number: true
   auto_detect: false
   tab_replace:
   
@@ -80,18 +80,18 @@ theme: Sakura
 deploy:
   type: git
   repo: 
-    # github: git@github.com:honjun/honjun.github.io.git
+    github: git@github.com:virualv/virualv.github.io.git
     # github: https://github.com/honjun/honjun.github.io.git
-    coding: https://git.coding.net/hojun/hojun.git
+    # coding:
   branch: master
 
 # backup
 backup:
   type: git
-  message: backup my blog of https://yourname.github.io/
+  message: backup byteorchid blog of https://virualv.github.io/
   repository:
     # github: https://github.com/honjun/honjun.github.io.git,backup
-    coding: https://git.coding.net/hojun/hojun.git,backup
+    coding: git@e.coding.net:byteorchid/byteorchid/blogbackup.git,backup
 
 #RSS
 feed:
