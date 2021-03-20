@@ -4,9 +4,8 @@ date: 2019-09-15 15:54:35
 tags: 
  - java
  - it
-categories:
- - Java
-photos: https://i.endpot.com/image/6XX3L/java.jpg
+categories: tech
+photos: https://i.endpot.com/image/6XX3L/java.jpg 
 ---
 
 
