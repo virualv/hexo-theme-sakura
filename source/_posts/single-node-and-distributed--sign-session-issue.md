@@ -4,8 +4,9 @@ date: 2019-09-15 23:08:21
 tags:
  - tomcat
  - web
+ - java
  - distributed
-categories: Java
+categories: tech
 photos: https://insready.com/sites/default/files/SSO%20diagram.png
 ---
 ## 服务端登录验证问题简解

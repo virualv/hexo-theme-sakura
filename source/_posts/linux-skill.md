@@ -6,9 +6,7 @@ tags:
  - ubuntu
  - debian
  - centos
-categories:
- - Linux
- - Shell
+categories: tech
 photos: https://pic3.zhimg.com/v2-dc98064e8bc40d83d91362d4ce1dd9d3_1440w.jpg
 ---
 

@@ -4,7 +4,7 @@ date: 2019-09-15 15:53:05
 tags: 
  - software
  - download
-categories: Lifestyle
+categories: life
 photos: https://i.loli.net/2021/03/20/vm4yg8NbMn6zroL.jpg
 ---
 ## 浏览器

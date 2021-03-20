@@ -3,9 +3,7 @@ title: 强制http跳转至https
 date: 2019-09-19 15:59:45
 tags:
  - web
-categories:
- - linux
- - nginx
+categories: tech
 photos: https://tech.youzan.com/content/images/2018/03/http_to_https-1.jpg
 ---
 一直想强制使用https协议，毕竟http不是那么的安全了。技术的跟进是必须的！

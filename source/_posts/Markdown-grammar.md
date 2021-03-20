@@ -2,8 +2,7 @@
 title: Markdown 简单介绍
 date: 2019-09-19 13:49:28
 tags: markdown
-categories:
- - Markdown
+categories: tech
 photos: https://www.logo.wine/a/logo/Markdown/Markdown-Logo.wine.svg
 ---
 

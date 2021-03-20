@@ -4,7 +4,7 @@ date: 2019-09-15 22:38:48
 tags:
  - RSS
  - rsshub
-categories: Lifestyle
+categories: life
 photos: https://pic4.zhimg.com/v2-69c71d174f015e5dd2ad773d2bf4b235_720w.jpg
 ---
 ![rsshub](https://docs.rsshub.app/logo.png)

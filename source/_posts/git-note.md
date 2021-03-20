@@ -2,7 +2,7 @@
 title: git使用手记
 date: 2019-09-15 23:14:35
 tags: git
-categories: Version Control
+categories: tech
 photos: https://i.loli.net/2021/03/20/mNKCQt7Geqsbcpv.jpg
 ---
 Git 手记 （持续更新）

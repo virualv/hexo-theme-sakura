@@ -5,8 +5,7 @@ tags:
  - python
  - it
  - web
-categories:
- - Python
+categories: tech
 photos: https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008
 ---
 # 变量

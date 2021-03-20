@@ -5,7 +5,7 @@ tags:
  - shell
  - bash
  - linux
-categories: Shell
+categories: tech
 photos: https://www.w3cschool.cn/attachments/image/20170622/1498119961561899.png
 ---
 # shell入门

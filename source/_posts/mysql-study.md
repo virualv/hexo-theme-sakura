@@ -7,9 +7,7 @@ tags:
  - database
  - mysql
  - mariadb
-categories:
- - Database
- - MySQL
+categories: tech
 photos: https://www.11meigui.com/wp-content/uploads/2020/01/sql-illustration.png
 ---
 

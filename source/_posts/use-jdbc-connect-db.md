@@ -5,9 +5,7 @@ tags:
  - jdbc
  - java
  - sql
-categories:
- - Java
- - Database
+categories: tech
 photos: https://i.loli.net/2021/03/20/keqxUZXBi3lOd6r.jpg
 ---
 # JDBC
